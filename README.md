@@ -40,7 +40,7 @@ The project utilizes two distinct datasets across the experiments:
 | **Semantic Matching** | **Sentence-BERT** (`sentence-transformers`) | Dense vector embeddings capturing semantic context beyond exact keyword matches. |
 | **Recommender Systems** | **Bayesian Personalized Ranking (BPR)** (`implicit`) | Matrix factorization optimized for implicit feedback in job-skill interactions. |
 | **Tree-based / GBDT** | **LightGBM & XGBoost** | Learning-to-rank and classification on tabularized feature representations. |
-| **Ensemble Models** | **SBERT + XGBoost / Random Forest** | Multi-stage stacking and ensemble approaches combining semantic features with decision forests. |
+| **Ensemble Models** | **SBERT + XGBoost** | Multi-stage stacking and ensemble approaches combining semantic features with decision forests. |
 
 ---
 
