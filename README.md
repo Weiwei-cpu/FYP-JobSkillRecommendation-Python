@@ -13,7 +13,7 @@ This project explores, implements, and benchmarks diverse modeling paradigms:
 2. **Dense Semantic Embeddings**: Sentence-BERT (SBERT) for contextual representation and semantic similarity.
 3. **Gradient Boosting & Learning to Rank**: LightGBM (Ranker / Classifier) and XGBoost.
 4. **Collaborative Filtering**: Bayesian Personalized Ranking (BPR) using the `implicit` library.
-5. **Hybrid & Ensemble Architectures**: Combining semantic embeddings with ensemble tree models (Random Forest, XGBoost) and BPR ensembles.
+5. **Hybrid & Ensemble Architectures**: Combining semantic embeddings with ensemble tree models (Random Forest, XGBoost).
 6. **Efficiency & Resource Benchmarking**: Monitoring inference runtime and RAM usage (`psutil`) alongside accuracy metrics.
 
 ---
